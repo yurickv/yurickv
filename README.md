@@ -5,37 +5,20 @@
 ### A little more about me...  
 
 ```javascript
-class About extends Me {
-    getCurrentWorkplace() {
-        return {
-            workplace: {
-                company: 'Adrenalin',
-                position: 'Founder'
-            }
-        };
-    }
-
-    getDailyKnowledge() {
-        return [
-            'Javascript',
-            'React',
-            'Next.js',
-            'Angular',
-            'ReactNative',
-            'TailwindCss',
-            'TypeScript'
-        ];
-    }
-
-    getFutureGoal() {
-        return 'To contribute to open source.';
-    }
+const yurickv = {
+     name: "Yuriy Teslyuk",
+     location: {
+       country: "Ukraine",
+       city: "Ternopil",
+     },
+     techSkills:{
+       code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+       tools: ["React", "Redux", "Next.js", "Node", "Express.js", "Mongo DB", Tailwind.css],
+     },
+     сommercialProjects: ["https://www.gym-adrenalin.com.ua"],
+     getCurrentProgect() { return 'Web-site for Credit Union company'},
+     getFutureGoal() {return 'learn AWS'; }
 }
-
-const about = new About();
-console.log(about.getCurrentWorkplace());
-console.log(about.getDailyKnowledge());
-console.log(about.getFutureGoal());
 ```
 <!--
 **yurickv/yurickv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
