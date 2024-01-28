@@ -12,14 +12,22 @@ const yurickv = {
        city: "Ternopil",
      },
      techSkills:{
-       code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-       tools: ["React", "Redux", "Next.js", "Node", "Express.js", "Mongo DB", Tailwind.css],
+       code: [JavaScript, TypeScript, HTML, CSS],
+       tools: [React, Redux, Next.js, Node.js, Express.js, MongoDB, Tailwind.css],
      },
      сommercialProjects: ["https://www.gym-adrenalin.com.ua"],
-     getCurrentProgect() { return 'Web-site for Credit Union company'},
+     getCurrentProgect() { return 'Develop web-site for Credit Union company'},
      getFutureGoal() {return 'learn AWS'; }
 }
 ```
+
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuriyteslyuk) 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <!--
 **yurickv/yurickv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
