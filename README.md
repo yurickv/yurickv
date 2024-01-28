@@ -15,14 +15,14 @@ const yurickv = {
        code: [JavaScript, TypeScript, HTML, CSS],
        tools: [React, Redux, Next.js, Node.js, Express.js, MongoDB, Tailwind.css],
      },
-     сommercialProjects: [https://www.gym-adrenalin.com.ua],
+     сommercialProjects: (https://www.gym-adrenalin.com.ua),
      getCurrentProgect() { return 'Develop web-site for Credit Union company'},
      getFutureGoal() {return 'learn AWS'; }
 }
 ```
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuriyteslyuk) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriyteslyuk) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
