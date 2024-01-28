@@ -15,7 +15,7 @@ const yurickv = {
        code: [JavaScript, TypeScript, HTML, CSS],
        tools: [React, Redux, Next.js, Node.js, Express.js, MongoDB, Tailwind.css],
      },
-     сommercialProjects: ["https://www.gym-adrenalin.com.ua"],
+     сommercialProjects: [https://www.gym-adrenalin.com.ua],
      getCurrentProgect() { return 'Develop web-site for Credit Union company'},
      getFutureGoal() {return 'learn AWS'; }
 }
