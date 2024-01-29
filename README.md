@@ -1,4 +1,5 @@
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="288" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="405" height="260" />
+
 # Hi there, I'm Yuriy 👋
 
 ## Full stack developer with MERN stack 💻
