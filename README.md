@@ -2,6 +2,11 @@
 
 ## Hi there, I'm Yuriy 👋
 
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriyteslyuk) 
+
+
+
 ### A little more about me...  
 
 ```javascript
@@ -20,10 +25,6 @@ const yurickv = {
      getFutureGoal() {return 'learn AWS'; }
 }
 ```
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriyteslyuk) 
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
