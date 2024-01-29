@@ -1,5 +1,5 @@
-# Full stack developer with MERN stack 💻
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+# Full stack developer with MERN stack 💻  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ## Hi there, I'm Yuriy 👋
 
 ### A little more about me...  
