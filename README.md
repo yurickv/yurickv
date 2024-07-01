@@ -23,7 +23,7 @@ const yurickv = {
        tools: [React, Redux, Next.js, Node.js, Express.js, MongoDB, Tailwind.css],
      },
      сommercialProjects: ["https://www.gym-adrenalin.com.ua", "https://fos.te.ua"],
-     getCurrentProgect() { return `Develop pet-project ${To do Board}`},
+     getCurrentProgect() { return `Develop startup-project ${CoinLift}`},
      getFutureGoal() {return 'learn AWS'; }
 }
 ```
