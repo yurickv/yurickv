@@ -20,11 +20,11 @@ const yurickv = {
      },
      techSkills:{
        code: [JavaScript, TypeScript, HTML, CSS],
-       tools: [React, Redux, Next.js, Node.js, Express.js, MongoDB, Tailwind.css],
+       tools: [React, Redux, Next.js, Node.js, Nest.js, Express.js, MongoDB, Supabase, OpenAI API, Tailwind.css],
      },
      сommercialProjects: ["https://www.gym-adrenalin.com.ua", "https://fos.te.ua"],
-     getCurrentProgect() { return `Develop startup-project ${CoinLift}`},
-     getFutureGoal() {return 'learn AWS'; }
+     getCurrentProgect() { return `Develop startup-project ${Cappi-AI-Cnsult}`},
+     getFutureGoal() {return 'make own product NutriDay'; }
 }
 ```
 
